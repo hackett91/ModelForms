@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DjangoDB
 
 # Database configuration
@@ -228,3 +229,6 @@ python manage.py
 python manange.py runserver
 //checkout /admin
 ``
+=======
+# ModelForms
+>>>>>>> 900120dd0e9a14fc383130cc0c355ea4197410c8
